@@ -1,2 +1,5 @@
 #All platforms
 *.exe
+*.rar
+*.obj
+*.bak
