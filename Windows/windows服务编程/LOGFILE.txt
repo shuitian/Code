@@ -1,0 +1,33 @@
+2013-12-25 12:19:26	Service Started.
+2013-12-25 12:19:26	RegisterServiceCtrlHandler Success!
+2013-12-25 12:19:26	ServiceMain End!
+2013-12-25 12:19:26	MainProc!
+2013-12-25 12:20:51	Service Stop.
+2013-12-25 12:21:8	Service Started.
+2013-12-25 12:21:8	RegisterServiceCtrlHandler Success!
+2013-12-25 12:21:8	ServiceMain End!
+2013-12-25 12:21:8	MainProc!
+2013-12-25 12:21:52	Service Stop.
+2013-12-25 12:23:18	Service Started.
+2013-12-25 12:23:18	RegisterServiceCtrlHandler Success!
+2013-12-25 12:23:18	ServiceMain End!
+2013-12-25 12:23:18	MainProc!
+2013-12-25 12:23:29	Service Pause.
+2013-12-25 12:23:32	Service Resume.
+2013-12-25 12:23:43	Service Pause.
+2013-12-25 12:23:46	Service Resume.
+2013-12-25 12:24:29	Service Pause.
+2013-12-25 12:24:30	Service Resume.
+2013-12-25 12:24:32	Service Stop.
+2013-12-25 12:24:45	Service Started.
+2013-12-25 12:24:45	RegisterServiceCtrlHandler Success!
+2013-12-25 12:24:45	ServiceMain End!
+2013-12-25 12:24:45	MainProc!
+2013-12-25 12:24:48	Service Pause.
+2013-12-25 12:24:50	Service Resume.
+2013-12-25 12:24:56	Service Stop.
+2013-12-25 12:25:0	Service Started.
+2013-12-25 12:25:0	RegisterServiceCtrlHandler Success!
+2013-12-25 12:25:0	ServiceMain End!
+2013-12-25 12:25:0	MainProc!
+2013-12-25 12:25:3	Service Stop.
