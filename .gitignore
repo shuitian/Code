@@ -3,3 +3,5 @@
 *.rar
 *.obj
 *.bak
+
+!masm32resource/
